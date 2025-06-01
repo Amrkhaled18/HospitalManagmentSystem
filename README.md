@@ -75,12 +75,6 @@ Example connection string:
 
 ---
 
-## 📸 Screenshots
-
-*Add screenshots here (Patient form, Dashboard, Login, etc.)*
-
----
-
 ## 📄 License
 
 This project is open-source and free to use under the [MIT License](LICENSE).
@@ -89,5 +83,5 @@ This project is open-source and free to use under the [MIT License](LICENSE).
 
 ## 🙋‍♂️ Author
 
-**Your Name**  
-[LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
+Amr khaled  
+[LinkedIn](https://www.linkedin.com/in/amr-khaled-66b030226/) | [GitHub](https://github.com/Amrkhaled18)
